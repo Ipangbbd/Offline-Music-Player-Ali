@@ -1,0 +1,1 @@
+Yeah this is my music player project just musics the lovable contribution only to setups the starts layouts, i did the rest of the magicthingy
