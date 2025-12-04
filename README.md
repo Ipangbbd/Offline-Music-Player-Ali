@@ -1,1 +1,1 @@
-Yeah this is my music player project just musics the lovable contribution only to setups the starts layouts, i did the rest of the magicthingy
+Yeah this is my music player project just musics u can add more musics with adding more into the public/music and copy the manifest setups.
